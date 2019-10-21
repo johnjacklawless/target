@@ -1,6 +1,6 @@
 Hosted instance URL:
-https://hwv85eqvwc.execute-api.us-east-2.amazonaws.com/dev/products/100000
-https://hwv85eqvwc.execute-api.us-east-2.amazonaws.com/dev/products/100001
+
+https://hwv85eqvwc.execute-api.us-east-2.amazonaws.com/dev/products/13860428
 
 The crux of the problem is the URL mapping. Luckily, aws allows for a simple proxy, from there it's a single split.
 
